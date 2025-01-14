@@ -1,8 +1,8 @@
-Prostitute-Resource-for-FiveM---Fully-Customizable-Service-Script
-Prostitute Resource for FiveM is a fully customizable script designed to add an interactive prostitution service system to your FiveM server. This premium resource includes realistic animations, interactive menus, and customizable ped behaviors to enhance roleplay scenarios. 
+badboy Resource-for-FiveM---Fully-Customizable-Service-Script
+badboy Resource for FiveM is a fully customizable script designed to add an interactive prostitution service system to your FiveM server. This premium resource includes realistic animations, interactive menus, and customizable ped behaviors to enhance roleplay scenarios. 
 
 #Key Features:
-* Fully interactive prostitute menu with service options. 
+* Fully interactive badboy menu with service options. 
 * Realistic animations for both player and ped. 
 * Ped outfit adjustment for immersive gameplay. 
 * Easy-to-use installation and configuration. 
@@ -36,7 +36,7 @@ Restart Your Server Restart your FiveM server or use the refresh and start [reso
 
 #How It Works: 
 
-* Interact with Nearby Peds: Walk up to a nearby ped, and press the E key to open the prostitute menu. 
+* Interact with Nearby Peds: Walk up to a nearby ped, and press the E key to open the badboy menu. 
 * Select a Service: Choose from the menu options to start or stop the session. 
 * Fully Scripted Animations: Watch the immersive animations play out as you interact. 
 * Support: If you encounter any issues, feel free to contact us for support via the purchase link.
